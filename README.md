@@ -1,2 +1,1 @@
-# Composer
-Composer to github
+Реализация чеклиста 4 Data Base with PDO
