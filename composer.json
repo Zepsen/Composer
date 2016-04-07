@@ -1,6 +1,5 @@
 {
-  "name": "zepsen/mypdo",
-  "version": "1.0.0",
+  "name": "zepsen/mypdo as 1.0.0",
   "description": "PDO classes from Checklist 4",
   "require": {
     "php": ">=5.3.0"
